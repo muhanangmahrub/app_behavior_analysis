@@ -1,0 +1,1 @@
+This project aims to predict whether a user will make a repeat purchase based on data from an audiobook application. The dataset used for this analysis is titled [Audiobook App Data](https://www.kaggle.com/datasets/rutujab99/audiobookappdata) and is sourced from Kaggle.
